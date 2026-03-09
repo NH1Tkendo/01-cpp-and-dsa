@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Giới thiệu chung/1-2 Tổng quan về Cách thức hoạt động của C++ và Quá trình Build.md",
+                "file": "2. Lỗi & Cảnh báo/2-5 Lỗi Logic và Nguyên Nhân.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-2 Tổng quan về Cách thức hoạt động của C++ và Quá trình Build"
+              "title": "2-5 Lỗi Logic và Nguyên Nhân"
             }
           }
         ]
@@ -185,9 +185,17 @@
   },
   "active": "b17dfc63eba13718",
   "lastOpenFiles": [
+    "2. Lỗi & Cảnh báo/2-4 Lỗi Thời Gian Chạy.md",
+    "2. Lỗi & Cảnh báo/2-5 Lỗi Logic và Nguyên Nhân.md",
+    "2. Lỗi & Cảnh báo/2-3 Lỗi Trình Liên Kết và Nguyên Nhân.md",
+    "2. Lỗi & Cảnh báo/2-2 Cảnh Báo Trình Biên Dịch.md",
+    "2. Lỗi & Cảnh báo/2-1 Lỗi Trình Biên Dịch và Nguyên Nhân.md",
+    "1. Giới thiệu chung/1-2 Tổng quan về Cách thức hoạt động của C++ và Quá trình Build.md",
+    "2. Lỗi & Cảnh báo",
+    "ThucHanh",
+    "New folder",
     "1. Giới thiệu chung/1-1 Lịch sử và Sự phát triển của C++ (History of C++).md",
     "README.md",
-    "1. Giới thiệu chung/1-2 Tổng quan về Cách thức hoạt động của C++ và Quá trình Build.md",
     "1. Giới thiệu chung"
   ]
 }
