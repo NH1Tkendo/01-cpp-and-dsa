@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Cấu trúc của chương trình C++/3-6 Nhập xuất cơ bản với cin và cout.md",
+                "file": "4. Biến và hằng số/4-7 Thực hành về hằng số.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-6 Nhập xuất cơ bản với cin và cout"
+              "title": "4-7 Thực hành về hằng số"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#include",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,8 +185,17 @@
   },
   "active": "b17dfc63eba13718",
   "lastOpenFiles": [
-    "3. Cấu trúc của chương trình C++/3-5 Không gian tên (Namespaces) trong C++.md",
+    "2026-03-13.md",
+    "4. Biến và hằng số/4-7 Thực hành về hằng số.md",
+    "4. Biến và hằng số/4-6 Hằng số trong C++.md",
+    "4. Biến và hằng số/4-5 Toán tử Sizeof và Giới hạn Kiểu dữ liệu.md",
+    "4. Biến và hằng số/4-4 Các kiểu dữ liệu nguyên thủy (Primitive Data Types) trong C++.md",
+    "4. Biến và hằng số/4-3 Phạm vi của Biến.md",
+    "4. Biến và hằng số/4-2 Khai báo và Khởi tạo Biến trong C++.md",
+    "4. Biến và hằng số/4-1 Khái niệm về Biến.md",
     "3. Cấu trúc của chương trình C++/3-6 Nhập xuất cơ bản với cin và cout.md",
+    "4. Biến và hằng số",
+    "3. Cấu trúc của chương trình C++/3-5 Không gian tên (Namespaces) trong C++.md",
     "3. Cấu trúc của chương trình C++/3-4 Hàm chính (Main function) trong C++.md",
     "3. Cấu trúc của chương trình C++/3-3 Chú thích (Comments) trong C++.md",
     "3. Cấu trúc của chương trình C++/3-2 Bộ tiền xử lý (Preprocessor) và Chỉ thị tiền xử lý trong C++.md",
